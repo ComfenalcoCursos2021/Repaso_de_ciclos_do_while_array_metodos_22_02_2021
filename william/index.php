@@ -1,13 +1,13 @@
 
-
+<
 <?php
 
 
-    $keys = (array) ["lista_profesores"];
-    $values = (array) [0 => ["miguel", "Thomas"]];
+   // $keys = (array) ["lista_profesores"];
+    //$values = (array) [0 => ["miguel", "Thomas"]];
 
-    $lista =  array_combine($keys,$values);
-    var_dump($lista);
+   // $lista =  array_combine($keys,$values);
+    //var_dump($lista);
 
 
 
@@ -24,16 +24,6 @@
     // $array[6] = (object) $objetos;
 
     // var_dump($array[5]("Miguel"));
-
-
-
-
-
-
-
-
-
-
 
 
 
